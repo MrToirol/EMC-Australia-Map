@@ -4,7 +4,7 @@ A map of EarthMC's Australian continent (WIP)
 Current regions:
   From 48.12 to 51.13 (8 regions)
 
-To get the map, download the files, and place the folder 'Australia-EMC' in '.minecraft/saves'.
+To get the map, download the files, and place the folder 'Australia-Map' in '.minecraft/saves'.
 
 You can also directly download the schematics (.litematic) in 'Australia (schematics)'.
 
