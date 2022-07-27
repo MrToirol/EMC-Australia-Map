@@ -5,6 +5,7 @@ Current regions:
   From 48.12 to 51.13 (8 regions)
 
 To get the map, download the files, and place the folder 'Australia-EMC' in '.minecraft/saves'.
+
 You can also directly download the schematics (.litematic) in 'Australia (schematics)'.
 
 ![Australia_48-12_51_13](https://user-images.githubusercontent.com/84342903/181297328-b0d80629-4977-4309-bf04-e761dc434fd6.png)
