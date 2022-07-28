@@ -8,6 +8,9 @@ To get the map, download the files, and place the folder 'Australia-Map' in '.mi
 
 You can also directly download the schematics (.litematic) in 'Australia (schematics)'.
 
-![Australia_48-12_51_13](https://user-images.githubusercontent.com/84342903/181297328-b0d80629-4977-4309-bf04-e761dc434fd6.png)
 
-![Australia_48-12_51_13_TOP](https://user-images.githubusercontent.com/84342903/181296285-4c607bea-7c3b-49c2-bd3a-6f3afe727979.png)
+(underground will be fixed soonTM I promise 💀)
+
+![Australia_48-11_51_13](https://user-images.githubusercontent.com/84342903/181632037-7db21708-bde9-486a-9ea5-2ae8afe1c82e.png)
+
+![Australia_48-11_51_13_TOP](https://user-images.githubusercontent.com/84342903/181631417-eb634e94-8e9b-46d5-9442-12afe4f4f7dd.png)
